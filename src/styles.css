@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=IBM+Plex+Sans:wght@500&display=swap");
+
+.App {
+  font-family: "IBM Plex Sans", sans-serif;
+  text-align: center;
+}
+h1.question {
+  font-size: 24px;
+}
+button.btnAnswer {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+  background: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 3px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+button.btnAnswer:hover {
+  opacity: 0.8;
+}
+.scoreWrapper {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  background: #f5f5f5;
+  text-align: center;
+}
+p.correct {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0.3em;
+}
+p.correct {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0.1em;
+}
+.flow {
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+h2.Good {
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+  font-weight: bold;
+  color: Green;
+}
+p.Good {
+  font-size: 16px;
+  font-weight: bold;
+}
+h5.Good {
+  font-size: 18px;
+  font-weight: bold;
+}
+h2.Bad {
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+  font-weight: bold;
+  color: Red;
+}
+p.Bad {
+  font-size: 16px;
+  font-weight: bold;
+}
+h5.Bad {
+  font-size: 18px;
+  font-weight: bold;
+}
+.Card {
+  border: 1px solid #bbb;
+  display: inline-block;
+  width: 500px;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: #eee;
+}
