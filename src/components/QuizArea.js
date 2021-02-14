@@ -21,3 +21,4 @@ function QuizArea(props) {
 export default QuizArea;
 
 //layout for the quiz question and answers
+//makes management easier
