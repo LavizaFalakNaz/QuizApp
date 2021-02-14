@@ -13,3 +13,5 @@ function Answer(props) {
 }
 
 export default Answer;
+
+//fetches data from other document
