@@ -1,7 +1,7 @@
 {
   "name": "quiz-app",
   "version": "1.0.0",
-  "description": "Quiz App for Interns Spark Program",
+  "description": "Quiz App for Interns Spark",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
