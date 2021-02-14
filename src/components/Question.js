@@ -5,3 +5,6 @@ function Question(props) {
 }
 
 export default Question;
+
+
+//just a complimentary layout to reduce code size
