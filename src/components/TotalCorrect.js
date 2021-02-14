@@ -5,3 +5,5 @@ function TotalCorrect(props) {
 }
 
 export default TotalCorrect;
+
+//calculates answers
