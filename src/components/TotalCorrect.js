@@ -8,3 +8,4 @@ export default TotalCorrect;
 
 //calculates answers
 //can be done with a single function too
+//done this way to provide help in props and states
