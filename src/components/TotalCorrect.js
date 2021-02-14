@@ -7,3 +7,4 @@ function TotalCorrect(props) {
 export default TotalCorrect;
 
 //calculates answers
+//can be done with a single function too
