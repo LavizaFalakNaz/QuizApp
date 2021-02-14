@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>Geography Quiz</h1>
-      <p>Test your knowledge and let us know!</p>
+      <p>Let's see how smart are you!</p>
       <Questionnaire />
     </div>
   );
