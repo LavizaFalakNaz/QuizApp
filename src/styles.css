@@ -10,7 +10,7 @@ h1.question {
 button.btnAnswer {
   display: block;
   margin: 0 auto;
-  width: 200px;
+  width: 199px;
   background: green;
   color: white;
   border: none;
