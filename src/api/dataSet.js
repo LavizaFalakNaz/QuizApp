@@ -16,7 +16,7 @@ const dataSet = [
   },
   {
     question: "What is the Capital city of USA?",
-    options: ["San Fransisco", "Los Angeles", "Washington DC"],
+    options: ["New York", "Los Angeles", "Washington DC"],
     correct: 2
   }
 ];
