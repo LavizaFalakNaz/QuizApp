@@ -6,7 +6,7 @@ const dataSet = [
   },
   {
     question: "What is the Capital city of Iran?",
-    options: ["Kabul", "Damam", "Tehran"],
+    options: ["Kabul", "Damashq", "Tehran"],
     correct: 2
   },
   {
